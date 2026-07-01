@@ -176,8 +176,8 @@ def perform_guest_login(uid, password):
 def index():
     return jsonify({
         "api": "JWT Generator API (OB54)",
-        "credit": "SHAPPNO GMR",
-        "telegram": "@SHAPPNO_004X",
+        "credit": "MOD-X FF",
+        "telegram": "@nttmodX",
         "status": "running on Vercel ✅",
         "endpoints": {
             "/token": {
